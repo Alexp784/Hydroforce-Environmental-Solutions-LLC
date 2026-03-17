@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   plugins: [react()],
-  base:"/junk-removal-mps/"
+  base:"/junk-removal-mps/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
