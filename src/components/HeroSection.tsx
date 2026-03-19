@@ -5,7 +5,15 @@ import QuoteForm from "./QuoteForm";
 const HeroSection = () => {
   return (
     <section id="home" className="relative min-h-screen flex items-center pt-20">
-      <div>
+      {/* Background */}
+      <div className="absolute inset-0 z-0">
+        <img src={heroBg} alt="" className="w-full h-full object-cover" />
+        <div className="absolute inset-0 bg-surface-dark/75" />
+      </div>
+
+      <div className="container mx-auto relative z-10 grid lg:grid-cols-2 gap-12 items-center py-16 px-4">
+        {/* Left: Copy */}
+        <div>
           <div className="inline-block bg-accent/20 border border-accent/40 rounded px-4 py-1.5 mb-6">
             <span className="text-accent font-display font-bold text-sm uppercase tracking-wider">
               Junk Removal & Hauling — Fort Worth, TX
@@ -17,7 +25,7 @@ const HeroSection = () => {
             <br />
             <span className="text-accent">We Haul It All.</span>
           </h1>
-          <p className="text-sm font-bold uppercase tracking-wide text-accent mb-3">Strong service, clean results — the motto</p>
+
           <p className="text-lg text-surface-dark-foreground/80 max-w-lg mb-8 font-body">
             Fast, affordable junk removal and hauling for homes and businesses in{" "}
             <strong className="text-surface-dark-foreground">Fort Worth, TX</strong> and surrounding communities.
@@ -49,6 +57,12 @@ const HeroSection = () => {
             </a>
           </div>
         </div>
+
+        {/* Right: Quote Form */}
+        <div className="flex justify-center lg:justify-end">
+          <QuoteForm />
+        </div>
+      </div>
     </section>
   );
 };
