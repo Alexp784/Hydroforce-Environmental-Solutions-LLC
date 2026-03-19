@@ -24,7 +24,7 @@
     --muted: 0 0% 96%;
     --muted-foreground: 0 0% 45%;
 
-    --accent: 51 100% 50%; /* Gold/Yellow accent */
+    --accent: #db9a35; /* Gold/Yellow accent */
     --accent-foreground: 0 0% 9%;
 
     --destructive: 0 84% 60%;

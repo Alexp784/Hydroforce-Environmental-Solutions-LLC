@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   plugins: [react()],
-  base:"/millers-dump-service/",
+  base:"/randalls-junk-removal/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

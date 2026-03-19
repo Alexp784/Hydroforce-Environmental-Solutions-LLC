@@ -6,9 +6,9 @@ const StickyHeader = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-surface-dark/95 backdrop-blur-sm border-b border-surface-dark">
       <div className="container mx-auto flex items-center justify-between py-3 px-4">
         <a href="#" className="flex items-center gap-3">
-          <img src={mpsLogo} alt="Millers Dump Service logo" className="h-12 w-auto" />
+          <img src={mpsLogo} alt="Randalls Junk Removal logo" className="h-12 w-auto" />
           <div className="flex flex-col">
-            <span className="font-display font-bold text-lg text-accent leading-tight">Millers Dump Service</span>
+            <span className="font-display font-bold text-lg text-accent leading-tight">Randalls Junk Removal</span>
             <span className="font-body text-xs text-accent-foreground">Mobile driveway and safe dumpsters</span>
           </div>
         </a>
@@ -24,7 +24,7 @@ const StickyHeader = () => {
         <div className="flex items-center gap-4">
           <a href="tel:8179958813" className="hidden sm:flex items-center gap-2 text-accent font-display font-bold text-sm">
             <Phone className="w-4 h-4" />
-            740-357-5167
+            682-376-2969
           </a>
           <a
             href="#contact"
