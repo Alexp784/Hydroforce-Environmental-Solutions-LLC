@@ -1,5 +1,5 @@
 import { Phone, Mail } from "lucide-react";
-import mpsLogo from "@/assets/image_2026-03-23_13-36-25-removebg-preview.png";
+import mpsLogo from "@/assets/655762774_122162625368929322_3718722894101463163_n-removebg-preview.png";
 
 const Footer = () => (
   <footer className="bg-surface-dark py-16">
@@ -26,10 +26,10 @@ const Footer = () => (
           <h4 className="font-display font-bold text-surface-dark-foreground text-sm uppercase tracking-wider mb-4">Contact</h4>
           <div className="flex flex-col gap-3">
             <a href="tel:4783912675" className="flex items-center gap-2 text-accent font-bold text-sm">
-              <Phone className="w-4 h-4" /> 478-391-2675
+              <Phone className="w-4 h-4" /> 786-482-1573
             </a>
-            <a href="mailto:steviemarshall67@gmail.com" className="flex items-center gap-2 text-surface-dark-foreground/60 hover:text-accent transition-colors text-sm">
-              <Mail className="w-4 h-4" /> steviemarshall67@gmail.com
+            <a href="mailto:noslienusa11@gmail.com  " className="flex items-center gap-2 text-surface-dark-foreground/60 hover:text-accent transition-colors text-sm">
+              <Mail className="w-4 h-4" /> noslienusa11@gmail.com  
             </a>
           </div>
         </div>

@@ -1,71 +1,71 @@
 {
   "brand": {
-    "name": "We Are The Movers LLC",
-    "subtitle": "Furniture assembly, small moves, heavy item moving",
-    "logo": "@/assets/image_2026-03-23_13-36-25-removebg-preview.png"
+    "name": "Hydroforce Environmental LLC",
+    "subtitle": "Waste Removal • Recycling • Storm Cleanup",
+    "logo": "@/assets/655762774_122162625368929322_3718722894101463163_n-removebg-preview.png"
   },
   "contact": {
-    "phone": "478-391-2675",
-    "email": "steviemarshall67@gmail.com",
-    "location": "Riverdale 30274, Griffin, US",
+    "phone": "(786) 482-1573",
+    "email": "info@hydroforceenvironmental.com",
+    "location": "Lee & Collier Counties, FL",
     "hours": "Mon-Sat 8am-7pm",
-    "formMailto": "steviemarshall67@gmail.com"
+    "formMailto": "info@hydroforceenvironmental.com"
   },
   "hero": {
-    "label": "Riverdale / Griffin Moving Services",
-    "headline": "Need a Move? We Make It Easy.",
-    "subheading": "Expert furniture disassembly, small moves, heavy item transport, and TV mounting in Riverdale 30274, Griffin, US. We handle the logistics so you can focus on settling smoothly.",
-    "features": ["Same Day Service", "Free Estimates", "We Do the Heavy Lifting"],
+    "label": "Environmental Solutions for Lee & Collier Counties",
+    "headline": "Trusted Environmental Solutions",
+    "subheading": "At Hydroforce Environmental LLC, we provide reliable waste removal, recycling, and storm cleanup services to help you maintain clean, safe, and environmentally responsible spaces.",
+    "features": ["Eco-Friendly Disposal", "Quick Response", "Professional Service"],
     "callToAction": "Get a Free Quote",
-    "phone": "478-391-2675",
-    "sms": "4783912675"
+    "phone": "(786) 482-1573",
+    "sms": "7864821573"
   },
   "servicesSection": {
-    "title": "Moving & Assembly Services",
-    "description": "From furniture assembly to heavy item moving, we serve Riverdale and Griffin with safe, affordable relocation support.",
+    "title": "Environmental Services",
+    "description": "From waste removal to storm cleanup, we serve Lee and Collier Counties with safe, reliable environmental solutions.",
     "items": [
       {
-        "title": "Furniture Disassembly & Assembly",
-        "description": "We safely disassemble and reassemble your furniture as needed during your move."
+        "title": "Waste Removal",
+        "description": "Professional debris and waste removal for homes and businesses with responsible disposal practices."
       },
       {
-        "title": "Small Moves",
-        "description": "We offer affordable small move services for studios and 1-bedroom apartments."
+        "title": "Recycling Services",
+        "description": "Comprehensive recycling solutions to help reduce environmental impact and promote sustainability."
       },
       {
-        "title": "Heavy Item Moving",
-        "description": "We specialize in moving large furniture safely without damage to your items or property."
+        "title": "Yard & Storm Cleanup",
+        "description": "Expert yard cleaning and post-storm cleanup services to restore your property safely and efficiently."
       },
       {
-        "title": "TV Mounting & Unmounting",
-        "description": "We offer professional TV unmounting and mounting services to make your move easier."
+        "title": "Environmental Support Services",
+        "description": "Specialized environmental support and cleanup services tailored to your specific needs."
       }
     ]
   },
   "serviceArea": {
-    "heading": "Serving Riverdale 30274, Griffin, and South Metro Atlanta",
-    "description": "Based in Riverdale / Griffin, GA, we provide furniture disassembly, small moves, heavy-item moving, and TV services for local homes and apartments.",
-    "cities": ["Riverdale", "Griffin", "Jonesboro", "Morrow", "Fayetteville", "Stockbridge", "McDonough", "College Park", "East Point", "Union City", "Hapeville"]
+    "heading": "Serving Lee & Collier Counties",
+    "description": "Hydroforce Environmental LLC proudly serves homeowners and businesses throughout Lee and Collier Counties, helping maintain clean and environmentally responsible communities.",
+    "cities": ["Fort Myers", "Cape Coral", "Naples", "Bonita Springs", "Lehigh Acres", "Estero", "Sanibel", "Captiva"]
   },
   "whyChooseUs": {
-    "headline": "The Stevie Marshall Difference",
-    "description": "We're not a franchise or a faceless hauling company. We're a local team that takes every job personally — fast, affordable, and always dependable.",
+    "headline": "The Hydroforce Environmental Difference",
+    "description": "We're committed to providing reliable, responsible environmental solutions. Fast, professional, and always dedicated to a cleaner, more sustainable future.",
     "steps": [
-      {"num": "01", "title": "Get a Quote", "desc": "Call us or request a free quote online."},
-      {"num": "02", "title": "Schedule Pickup", "desc": "We arrive on time with a professional crew."},
-      {"num": "03", "title": "We Haul It Away", "desc": "You point, we load, we sweep up after."}
+      {"num": "01", "title": "Get a Free Quote", "desc": "Call us or request a free estimate online."},
+      {"num": "02", "title": "Schedule Service", "desc": "We arrive on time with a professional team."},
+      {"num": "03", "title": "We Handle It", "desc": "Professional service with eco-friendly practices and cleanup."}
     ],
     "features": [
-      {"title": "Same Day Service", "desc": "Need it gone today? We offer same-day and next-day service so you're not stuck waiting around."},
-      {"title": "Upfront Pricing", "desc": "No hidden fees. We quote before we start — price includes labor, loading, transportation."},
-      {"title": "Professional Crew", "desc": "Our team handles all the heavy lifting. You just point to what needs to go."},
-      {"title": "Eco-Friendly Disposal", "desc": "We dispose responsibly and reuse where possible."},
-      {"title": "Licensed & Insured", "desc": "Fully insured for your peace of mind."},
-      {"title": "Locally Owned", "desc": "Based in Griffin/Riverdale, GA. We live and work in the community we serve."}
+      {"title": "Quick Response", "desc": "Need immediate assistance? We offer same-day and next-day service for urgent cleanup needs."},
+      {"title": "Transparent Pricing", "desc": "No hidden fees. We provide clear quotes upfront with all costs included."},
+      {"title": "Professional Team", "desc": "Trained and experienced crew that handles all aspects of environmental cleanup."},
+      {"title": "Eco-Friendly Disposal", "desc": "We prioritize environmentally responsible disposal and recycling practices."},
+      {"title": "Licensed & Insured", "desc": "Fully licensed and insured for your peace of mind and protection."},
+      {"title": "Local Commitment", "desc": "Based in South Florida, serving the communities we're part of with pride and responsibility."}
     ]
   },
   "footer": {
-    "copyright": "© 2026 We Are The Movers LLC. All rights reserved.",
+    "copyright": "© 2026 Hydroforce Environmental LLC. All rights reserved.",
     "quickLinks": ["Home", "Services", "About", "Gallery", "Contact Us"]
   },
   "theme": {
@@ -73,8 +73,10 @@
     "foreground": "#F2F2F2",
     "cardBackground": "#1E1E1E",
     "cardForeground": "#F2F2F2",
-    "accent": "#FF0000",
+    "accent": "#D4AF37",
     "accentForeground": "#FFFFFF",
+    "accentSecondary": "#00BCD4",
+    "accentTertiary": "#76FF03",
     "border": "#2A2A2A",
     "muted": "#2A2A2A",
     "mutedForeground": "#B3B3B3"

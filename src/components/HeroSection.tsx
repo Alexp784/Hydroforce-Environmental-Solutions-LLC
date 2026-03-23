@@ -27,7 +27,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg text-surface-dark-foreground/80 max-w-lg mb-8 font-body">
-            Expert furniture disassembly, small moves, heavy item transport, and TV mounting in Riverdale 30274, Griffin, US.
+            Expert furniture disassembly, small moves, heavy item transport, and TV mounting in Fort Myers, Fl United States.
             We handle the logistics so you can focus on settling smoothly.
           </p>
 
@@ -45,7 +45,7 @@ const HeroSection = () => {
               className="inline-flex items-center gap-2 bg-accent text-accent-foreground font-display font-bold uppercase px-6 py-3 rounded hover:brightness-110 transition-all text-sm"
             >
               <Phone className="w-4 h-4" />
-              Call 478-391-2675
+              Call 786-482-1573
             </a>
             <a
               href="sms:4783912675"

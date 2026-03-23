@@ -10,7 +10,7 @@ const ContactQuoteForm = () => {
     const body = encodeURIComponent(
       `Name: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.phone}\nDetails: ${formData.details}`
     );
-    window.location.href = `mailto:steviemarshall67@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:noslienusa11@gmail.com  ?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -80,9 +80,9 @@ const ContactUs = () => {
             <h3 className="font-display font-bold text-2xl text-foreground mb-3">Book a Pickup</h3>
             <p className="text-muted-foreground mb-5">Fill out the form and we’ll call or text to confirm your appointment.</p>
             <div className="space-y-3 text-sm text-foreground">
-              <div className="flex items-center gap-2"><Phone className="w-4 h-4 text-accent" /> 478-391-2675</div>
-              <div className="flex items-center gap-2"><Mail className="w-4 h-4 text-accent" /> steviemarshall67@gmail.com</div>
-              <div className="rounded-lg bg-surface-dark/10 p-3 text-xs text-muted-foreground">Location: Riverdale 30274, Griffin, US</div>
+              <div className="flex items-center gap-2"><Phone className="w-4 h-4 text-accent" /> 786-482-1573</div>
+              <div className="flex items-center gap-2"><Mail className="w-4 h-4 text-accent" /> noslienusa11@gmail.com  </div>
+              <div className="rounded-lg bg-surface-dark/10 p-3 text-xs text-muted-foreground">Location: Fort Myers, Fl United States</div>
             </div>
           </div>
           <ContactQuoteForm />

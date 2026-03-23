@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   plugins: [react()],
-  base:"/we-are-the-movers/",
+  base:"/Hydroforce-Environmental-Solutions-LLC/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

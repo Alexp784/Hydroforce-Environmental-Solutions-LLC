@@ -15,24 +15,24 @@
     --popover: 0 0% 12%;
     --popover-foreground: 0 0% 95%;
 
-    --primary: 0 100% 60%; /* Bright red */
+    --primary: 45.6 74.5% 59.6%; /* Gold from Hydroforce logo */
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 0 0% 15%;
+    --secondary: 187.5 100% 41.8%; /* Cyan blue from Hydroforce logo */
     --secondary-foreground: 0 0% 95%;
 
     --muted: 0 0% 18%;
     --muted-foreground: 0 0% 70%;
 
-    --accent: 0 100% 50%; /* Red accent */
+    --accent: 45.6 74.5% 59.6%; /* Gold accent */
     --accent-foreground: 0 0% 100%;
 
-    --destructive: 0 84% 60%;
-    --destructive-foreground: 0 0% 100%;
+    --destructive: 80.5 100% 50%;
+    --destructive-foreground: 0 0% 20%;
 
     --border: 0 0% 90%;
     --input: 0 0% 90%;
-    --ring: 51 100% 50%; /* Gold ring */
+    --ring: 45.6 74.5% 59.6%; /* Gold ring */
 
     --radius: 0.5rem;
 
