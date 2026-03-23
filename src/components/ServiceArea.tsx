@@ -1,32 +1,30 @@
 import { MapPin } from "lucide-react";
 
 const communities = [
-  { name: "Fort Worth", tag: "HQ" },
-  { name: "Arlington" },
-  { name: "Dallas" },
-  { name: "Mansfield" },
-  { name: "Burleson" },
-  { name: "Keller" },
-  { name: "Southlake" },
-  { name: "Grapevine" },
-  { name: "Hurst" },
-  { name: "Bedford" },
-  { name: "Euless" },
-  { name: "North Richland Hills" },
-  { name: "Weatherford" },
-  { name: "Cleburne" },
+  { name: "Riverdale", tag: "HQ" },
+  { name: "Griffin" },
+  { name: "Jonesboro" },
+  { name: "Morrow" },
+  { name: "Fayetteville" },
+  { name: "Stockbridge" },
+  { name: "McDonough" },
+  { name: "College Park" },
+  { name: "East Point" },
+  { name: "Union City" },
+  { name: "Hapeville" },
+  { name: "Riverdale" },
 ];
 
 const ServiceArea = () => (
   <section className="py-20 bg-background">
     <div className="container mx-auto px-4">
       <div className="text-center mb-14">
-        <span className="text-accent font-display font-bold text-sm uppercase tracking-wider">Junk Removal Near You</span>
+        <span className="text-accent font-display font-bold text-sm uppercase tracking-wider">Service Area</span>
         <h2 className="font-display font-800 text-3xl md:text-4xl text-foreground mt-3">
-          Proudly Serving Fort Worth & the DFW Metroplex.
+          Serving Riverdale 30274, Griffin, and South Metro Atlanta
         </h2>
         <p className="text-muted-foreground mt-3 max-w-2xl mx-auto">
-          Based in Fort Worth, TX, we provide junk removal, property cleanouts, hauling, and more to homeowners, contractors, and businesses across the DFW area.
+          Based in Riverdale / Griffin, GA, we provide furniture disassembly, small moves, heavy-item moving, and TV services for local homes and apartments.
         </p>
       </div>
 
@@ -52,8 +50,8 @@ const ServiceArea = () => (
           <a href="#contact" className="bg-accent text-accent-foreground font-display font-bold uppercase text-sm px-6 py-3 rounded hover:brightness-110 transition-all">
             Get a Free Quote
           </a>
-          <a href="tel:8179958813" className="border-2 border-surface-dark-foreground/30 text-surface-dark-foreground font-display font-bold uppercase text-sm px-6 py-3 rounded hover:border-accent hover:text-accent transition-all">
-            682-376-2969
+          <a href="tel:4783912675" className="border-2 border-surface-dark-foreground/30 text-surface-dark-foreground font-display font-bold uppercase text-sm px-6 py-3 rounded hover:border-accent hover:text-accent transition-all">
+            478-391-2675
           </a>
         </div>
       </div>

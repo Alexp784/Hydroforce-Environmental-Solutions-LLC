@@ -16,7 +16,7 @@ const HeroSection = () => {
         <div>
           <div className="inline-block bg-accent/20 border border-accent/40 rounded px-4 py-1.5 mb-6">
             <span className="text-accent font-display font-bold text-sm uppercase tracking-wider">
-              Junk Removal & Hauling — Fort Worth, TX
+              Riverdale / Griffin Moving Services
             </span>
           </div>
 
@@ -27,9 +27,8 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg text-surface-dark-foreground/80 max-w-lg mb-8 font-body">
-            Fast, affordable junk removal and hauling for homes and businesses in{" "}
-            <strong className="text-surface-dark-foreground">Fort Worth, TX</strong> and surrounding communities.
-            You point, we load, we haul it away.
+            Expert furniture disassembly, small moves, heavy item transport, and TV mounting in Riverdale 30274, Griffin, US.
+            We handle the logistics so you can focus on settling smoothly.
           </p>
 
           <div className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-display font-bold uppercase tracking-wider text-surface-dark-foreground/90 mb-8">
@@ -42,14 +41,14 @@ const HeroSection = () => {
 
           <div className="flex flex-wrap gap-4">
             <a
-              href="tel:8179958813"
+              href="tel:4783912675"
               className="inline-flex items-center gap-2 bg-accent text-accent-foreground font-display font-bold uppercase px-6 py-3 rounded hover:brightness-110 transition-all text-sm"
             >
               <Phone className="w-4 h-4" />
-              Call 682-376-2969
+              Call 478-391-2675
             </a>
             <a
-              href="sms:8179958813"
+              href="sms:4783912675"
               className="inline-flex items-center gap-2 border-2 border-surface-dark-foreground/30 text-surface-dark-foreground font-display font-bold uppercase px-6 py-3 rounded hover:border-accent hover:text-accent transition-all text-sm"
             >
               <MessageSquare className="w-4 h-4" />

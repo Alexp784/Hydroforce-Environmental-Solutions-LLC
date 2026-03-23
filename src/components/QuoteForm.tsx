@@ -10,7 +10,7 @@ const QuoteForm = () => {
     const body = encodeURIComponent(
       `Name: ${formData.name}\nPhone: ${formData.phone}\nEmail: ${formData.email}\nDetails: ${formData.details}`
     );
-    window.location.href = `mailto:randallsjunkremovalllc@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:steviemarshall67@gmail.com?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -77,8 +77,8 @@ const QuoteForm = () => {
           <ArrowRight className="w-4 h-4" />
         </button>
 
-        <a href="tel:8179958813" className="flex items-center justify-center gap-2 text-sm text-muted-foreground hover:text-accent transition-colors">
-          Prefer to talk? <Phone className="w-3.5 h-3.5 text-accent" /> <span className="text-accent font-bold">682-376-2969</span>
+        <a href="tel:4783912675" className="flex items-center justify-center gap-2 text-sm text-muted-foreground hover:text-accent transition-colors">
+          Prefer to talk? <Phone className="w-3.5 h-3.5 text-accent" /> <span className="text-accent font-bold">478-391-2675</span>
         </a>
 
         <p className="text-xs text-muted-foreground text-center">

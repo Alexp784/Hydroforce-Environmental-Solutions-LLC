@@ -1,14 +1,14 @@
 import { Phone, Mail } from "lucide-react";
-import mpsLogo from "@/assets/mps-logo-removebg-preview.png";
+import mpsLogo from "@/assets/image_2026-03-23_13-36-25-removebg-preview.png";
 
 const Footer = () => (
   <footer className="bg-surface-dark py-16">
     <div className="container mx-auto px-4">
       <div className="grid md:grid-cols-3 gap-12">
         <div>
-          <img src={mpsLogo} alt="Randalls Junk Removal logo" className="h-16 w-auto mb-4" />
-          <p className="text-accent font-display font-bold text-lg leading-tight mb-1">Randalls Junk Removal</p>
-          <p className="text-surface-dark-foreground/60 text-sm leading-relaxed">Mobile driveway and safe dumpsters</p>
+          <img src={mpsLogo} alt="Stevie Marshall Movers logo" className="h-16 w-auto mb-4" />
+          <p className="text-accent font-display font-bold text-lg leading-tight mb-1">Stevie Marshall Movers</p>
+          <p className="text-surface-dark-foreground/60 text-sm leading-relaxed">Furniture disassembly, small moves, heavy item moving</p>
         </div>
 
         <div>
@@ -25,11 +25,11 @@ const Footer = () => (
         <div>
           <h4 className="font-display font-bold text-surface-dark-foreground text-sm uppercase tracking-wider mb-4">Contact</h4>
           <div className="flex flex-col gap-3">
-            <a href="tel:8179958813" className="flex items-center gap-2 text-accent font-bold text-sm">
-              <Phone className="w-4 h-4" /> 682-376-2969
+            <a href="tel:4783912675" className="flex items-center gap-2 text-accent font-bold text-sm">
+              <Phone className="w-4 h-4" /> 478-391-2675
             </a>
-            <a href="mailto:randallsjunkremovalllc@gmail.com" className="flex items-center gap-2 text-surface-dark-foreground/60 hover:text-accent transition-colors text-sm">
-              <Mail className="w-4 h-4" /> randallsjunkremovalllc@gmail.com
+            <a href="mailto:steviemarshall67@gmail.com" className="flex items-center gap-2 text-surface-dark-foreground/60 hover:text-accent transition-colors text-sm">
+              <Mail className="w-4 h-4" /> steviemarshall67@gmail.com
             </a>
           </div>
         </div>

@@ -1,5 +1,5 @@
 import { Phone } from "lucide-react";
-import mpsLogo from "@/assets/mps-logo-removebg-preview.png";
+import mpsLogo from "@/assets/image_2026-03-23_13-36-25-removebg-preview.png";
 
 const StickyHeader = () => {
   return (
@@ -8,8 +8,8 @@ const StickyHeader = () => {
         <a href="#" className="flex items-center gap-3">
           <img src={mpsLogo} alt="Randalls Junk Removal logo" className="h-12 w-auto" />
           <div className="flex flex-col">
-            <span className="font-display font-bold text-lg text-accent leading-tight">Randalls Junk Removal</span>
-            <span className="font-body text-xs text-accent-foreground">Mobile driveway and safe dumpsters</span>
+            <span className="font-display font-bold text-lg text-accent leading-tight">We Are The Movers LLC</span>
+            <span className="font-body text-xs text-accent-foreground">Furniture assembly • Small moves • Heavy item moving</span>
           </div>
         </a>
 
@@ -22,9 +22,9 @@ const StickyHeader = () => {
         </nav>
 
         <div className="flex items-center gap-4">
-          <a href="tel:8179958813" className="hidden sm:flex items-center gap-2 text-accent font-display font-bold text-sm">
+          <a href="tel:4783912675" className="hidden sm:flex items-center gap-2 text-accent font-display font-bold text-sm">
             <Phone className="w-4 h-4" />
-            682-376-2969
+            478-391-2675
           </a>
           <a
             href="#contact"

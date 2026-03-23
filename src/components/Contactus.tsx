@@ -10,7 +10,7 @@ const ContactQuoteForm = () => {
     const body = encodeURIComponent(
       `Name: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.phone}\nDetails: ${formData.details}`
     );
-    window.location.href = `mailto:randallsjunkremovalllc@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:steviemarshall67@gmail.com?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -68,9 +68,9 @@ const ContactUs = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mx-auto max-w-2xl mb-10">
           <p className="text-xs uppercase tracking-[0.28em] font-display font-bold text-accent mb-2">Contact</p>
-          <h2 className="font-display font-800 text-3xl md:text-4xl text-foreground">Need Junk Gone? Contact Lucio’s Team</h2>
+          <h2 className="font-display font-800 text-3xl md:text-4xl text-foreground">Ready to Move? Get a Free Estimate</h2>
           <p className="text-muted-foreground mt-3">
-            Strong service, clean results. We handle residential and commercial cleanouts in Fort Worth and the DFW area.
+            Serving Riverdale 30274 and Griffin, GA. Furniture assembly, small moves, heavy item transport, and TV mounting with care.
           </p>
         </div>
 
@@ -80,9 +80,9 @@ const ContactUs = () => {
             <h3 className="font-display font-bold text-2xl text-foreground mb-3">Book a Pickup</h3>
             <p className="text-muted-foreground mb-5">Fill out the form and we’ll call or text to confirm your appointment.</p>
             <div className="space-y-3 text-sm text-foreground">
-              <div className="flex items-center gap-2"><Phone className="w-4 h-4 text-accent" /> 682-376-2969</div>
-              
-              <div className="rounded-lg bg-surface-dark/10 p-3 text-xs text-muted-foreground">Operating hours: Mon-Sat 8am-7pm</div>
+              <div className="flex items-center gap-2"><Phone className="w-4 h-4 text-accent" /> 478-391-2675</div>
+              <div className="flex items-center gap-2"><Mail className="w-4 h-4 text-accent" /> steviemarshall67@gmail.com</div>
+              <div className="rounded-lg bg-surface-dark/10 p-3 text-xs text-muted-foreground">Location: Riverdale 30274, Griffin, US</div>
             </div>
           </div>
           <ContactQuoteForm />
