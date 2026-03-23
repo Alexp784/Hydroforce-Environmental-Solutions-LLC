@@ -19,8 +19,8 @@ const GallerySection = () => (
     <div className="container mx-auto px-4">
       <div className="text-center mb-14">
         <span className="text-accent font-display font-bold text-sm uppercase tracking-wider">Our Work</span>
-        <h2 className="font-display font-800 text-3xl md:text-4xl text-foreground mt-3">Recent Projects</h2>
-        <p className="text-muted-foreground mt-3">Real jobs, real results. See how we handle every job with care and professionalism.</p>
+        <h2 className="font-display font-800 text-3xl md:text-4xl text-surface-gray-foreground mt-3">Recent Projects</h2>
+        <p className="text-surface-gray-foreground/70 mt-3">Real jobs, real results. See how we handle every job with care and professionalism.</p>
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">

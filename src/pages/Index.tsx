@@ -16,7 +16,6 @@ const Index = () => (
     <ServicesSection />
     <WhyChooseUs />
     <ServiceArea />
-    <GallerySection />
     <ContactUs />
     <Footer />
   </>
