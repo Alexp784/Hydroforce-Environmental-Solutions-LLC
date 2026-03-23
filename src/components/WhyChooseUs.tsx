@@ -30,9 +30,9 @@ const WhyChooseUs = () => (
       <div className="grid md:grid-cols-3 gap-8 mb-16">
         {steps.map(({ num, title, desc }) => (
           <div key={num} className="text-center">
-            <div className="text-accent font-display font-bold text-xs uppercase tracking-wider mb-2">Step {num}</div>
-            <h3 className="font-display font-bold text-xl text-foreground mb-2">{title}</h3>
-            <p className="text-muted-foreground text-sm">{desc}</p>
+            <div className="text-surface-gray-foreground font-display font-bold text-xs uppercase tracking-wider mb-2">Step {num}</div>
+            <h3 className="font-display font-bold text-xl text-surface-gray-foreground mb-2">{title}</h3>
+            <p className="text-surface-gray-foreground/70 text-sm">{desc}</p>
           </div>
         ))}
       </div>
