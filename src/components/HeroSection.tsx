@@ -7,7 +7,7 @@ const HeroSection = () => {
     <section id="home" className="relative min-h-screen flex items-center pt-20">
       {/* Background */}
       <div className="absolute inset-0 z-0">
-        <img src={heroBg} alt="" className="w-full h-full object-cover" />
+       
         <div className="absolute inset-0 bg-surface-dark/75" />
       </div>
 

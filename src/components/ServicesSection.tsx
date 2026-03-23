@@ -27,7 +27,7 @@ const services = [
 const ServicesSection = () => (
   <section id="services" className="relative py-20">
     <div className="absolute inset-0 z-0">
-      <img src={servicesBg} alt="" className="w-full h-full object-cover" />
+     
       <div className="absolute inset-0 bg-surface-dark/90" />
     </div>
 
