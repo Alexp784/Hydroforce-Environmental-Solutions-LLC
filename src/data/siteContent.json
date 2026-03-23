@@ -1,0 +1,82 @@
+{
+  "brand": {
+    "name": "We Are The Movers LLC",
+    "subtitle": "Furniture assembly, small moves, heavy item moving",
+    "logo": "@/assets/image_2026-03-23_13-36-25-removebg-preview.png"
+  },
+  "contact": {
+    "phone": "478-391-2675",
+    "email": "steviemarshall67@gmail.com",
+    "location": "Riverdale 30274, Griffin, US",
+    "hours": "Mon-Sat 8am-7pm",
+    "formMailto": "steviemarshall67@gmail.com"
+  },
+  "hero": {
+    "label": "Riverdale / Griffin Moving Services",
+    "headline": "Need a Move? We Make It Easy.",
+    "subheading": "Expert furniture disassembly, small moves, heavy item transport, and TV mounting in Riverdale 30274, Griffin, US. We handle the logistics so you can focus on settling smoothly.",
+    "features": ["Same Day Service", "Free Estimates", "We Do the Heavy Lifting"],
+    "callToAction": "Get a Free Quote",
+    "phone": "478-391-2675",
+    "sms": "4783912675"
+  },
+  "servicesSection": {
+    "title": "Moving & Assembly Services",
+    "description": "From furniture assembly to heavy item moving, we serve Riverdale and Griffin with safe, affordable relocation support.",
+    "items": [
+      {
+        "title": "Furniture Disassembly & Assembly",
+        "description": "We safely disassemble and reassemble your furniture as needed during your move."
+      },
+      {
+        "title": "Small Moves",
+        "description": "We offer affordable small move services for studios and 1-bedroom apartments."
+      },
+      {
+        "title": "Heavy Item Moving",
+        "description": "We specialize in moving large furniture safely without damage to your items or property."
+      },
+      {
+        "title": "TV Mounting & Unmounting",
+        "description": "We offer professional TV unmounting and mounting services to make your move easier."
+      }
+    ]
+  },
+  "serviceArea": {
+    "heading": "Serving Riverdale 30274, Griffin, and South Metro Atlanta",
+    "description": "Based in Riverdale / Griffin, GA, we provide furniture disassembly, small moves, heavy-item moving, and TV services for local homes and apartments.",
+    "cities": ["Riverdale", "Griffin", "Jonesboro", "Morrow", "Fayetteville", "Stockbridge", "McDonough", "College Park", "East Point", "Union City", "Hapeville"]
+  },
+  "whyChooseUs": {
+    "headline": "The Stevie Marshall Difference",
+    "description": "We're not a franchise or a faceless hauling company. We're a local team that takes every job personally — fast, affordable, and always dependable.",
+    "steps": [
+      {"num": "01", "title": "Get a Quote", "desc": "Call us or request a free quote online."},
+      {"num": "02", "title": "Schedule Pickup", "desc": "We arrive on time with a professional crew."},
+      {"num": "03", "title": "We Haul It Away", "desc": "You point, we load, we sweep up after."}
+    ],
+    "features": [
+      {"title": "Same Day Service", "desc": "Need it gone today? We offer same-day and next-day service so you're not stuck waiting around."},
+      {"title": "Upfront Pricing", "desc": "No hidden fees. We quote before we start — price includes labor, loading, transportation."},
+      {"title": "Professional Crew", "desc": "Our team handles all the heavy lifting. You just point to what needs to go."},
+      {"title": "Eco-Friendly Disposal", "desc": "We dispose responsibly and reuse where possible."},
+      {"title": "Licensed & Insured", "desc": "Fully insured for your peace of mind."},
+      {"title": "Locally Owned", "desc": "Based in Griffin/Riverdale, GA. We live and work in the community we serve."}
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 We Are The Movers LLC. All rights reserved.",
+    "quickLinks": ["Home", "Services", "About", "Gallery", "Contact Us"]
+  },
+  "theme": {
+    "background": "#0D0D0D",
+    "foreground": "#F2F2F2",
+    "cardBackground": "#1E1E1E",
+    "cardForeground": "#F2F2F2",
+    "accent": "#FF0000",
+    "accentForeground": "#FFFFFF",
+    "border": "#2A2A2A",
+    "muted": "#2A2A2A",
+    "mutedForeground": "#B3B3B3"
+  }
+}
