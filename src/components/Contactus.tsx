@@ -10,7 +10,7 @@ const ContactQuoteForm = () => {
     const body = encodeURIComponent(
       `Name: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.phone}\nDetails: ${formData.details}`
     );
-    window.location.href = `mailto:noslienusa11@gmail.com  ?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:info@hydroforceenvironmental.com?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -68,21 +68,21 @@ const ContactUs = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mx-auto max-w-2xl mb-10">
           <p className="text-xs uppercase tracking-[0.28em] font-display font-bold text-accent mb-2">Contact</p>
-          <h2 className="font-display font-800 text-3xl md:text-4xl text-foreground">Ready to Move? Get a Free Estimate</h2>
+          <h2 className="font-display font-800 text-3xl md:text-4xl text-foreground">Get a Free Environmental Solutions Quote</h2>
           <p className="text-muted-foreground mt-3">
-            Serving Riverdale 30274 and Griffin, GA. Furniture assembly, small moves, heavy item transport, and TV mounting with care.
+            Serving Lee and Collier Counties, FL. Waste removal, recycling services, yard and storm cleanup, and environmental support with care.
           </p>
         </div>
 
         <div className="grid gap-8 md:grid-cols-2 items-start max-w-5xl mx-auto">
           <div className="bg-card rounded-2xl p-6 shadow-md">
             <p className="text-sm uppercase tracking-[0.28em] font-display font-bold text-accent mb-2">Quick Contact</p>
-            <h3 className="font-display font-bold text-2xl text-foreground mb-3">Book a Pickup</h3>
-            <p className="text-muted-foreground mb-5">Fill out the form and we’ll call or text to confirm your appointment.</p>
+            <h3 className="font-display font-bold text-2xl text-foreground mb-3">Request Service</h3>
+            <p className="text-muted-foreground mb-5">Fill out the form and we'll call or text to confirm your appointment.</p>
             <div className="space-y-3 text-sm text-foreground">
               <div className="flex items-center gap-2"><Phone className="w-4 h-4 text-accent" /> 786-482-1573</div>
-              <div className="flex items-center gap-2"><Mail className="w-4 h-4 text-accent" /> noslienusa11@gmail.com  </div>
-              <div className="rounded-lg bg-surface-dark/10 p-3 text-xs text-muted-foreground">Location: Fort Myers, Fl United States</div>
+              <div className="flex items-center gap-2"><Mail className="w-4 h-4 text-accent" /> info@hydroforceenvironmental.com</div>
+              <div className="rounded-lg bg-surface-dark/10 p-3 text-xs text-muted-foreground">Location: Lee & Collier Counties, FL</div>
             </div>
           </div>
           <ContactQuoteForm />

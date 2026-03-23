@@ -16,27 +16,26 @@ const HeroSection = () => {
         <div>
           <div className="inline-block bg-accent/20 border border-accent/40 rounded px-4 py-1.5 mb-6">
             <span className="text-accent font-display font-bold text-sm uppercase tracking-wider">
-              Riverdale / Griffin Moving Services
+              Environmental Solutions for Lee & Collier Counties
             </span>
           </div>
 
           <h1 className="font-display font-900 text-5xl md:text-6xl lg:text-7xl leading-[1.05] text-surface-dark-foreground mb-6 text-shadow-hero">
-            Need Junk Gone Fast?
+            Trusted Environmental
             <br />
-            <span className="text-accent">We Haul It All.</span>
+            <span className="text-accent">Solutions</span>
           </h1>
 
           <p className="text-lg text-surface-dark-foreground/80 max-w-lg mb-8 font-body">
-            Expert furniture disassembly, small moves, heavy item transport, and TV mounting in Fort Myers, Fl United States.
-            We handle the logistics so you can focus on settling smoothly.
+            At Hydroforce Environmental LLC, we provide reliable waste removal, recycling, and storm cleanup services to help you maintain clean, safe, and environmentally responsible spaces.
           </p>
 
           <div className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm font-display font-bold uppercase tracking-wider text-surface-dark-foreground/90 mb-8">
-            <span>Same Day Service</span>
+            <span>Eco-Friendly Disposal</span>
             <span className="text-accent">•</span>
-            <span>Free Estimates</span>
+            <span>Quick Response</span>
             <span className="text-accent">•</span>
-            <span>We Do the Heavy Lifting</span>
+            <span>Professional Service</span>
           </div>
 
           <div className="flex flex-wrap gap-4">

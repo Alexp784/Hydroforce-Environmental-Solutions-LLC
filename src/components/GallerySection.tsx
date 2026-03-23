@@ -6,12 +6,12 @@ import heroBg from "@/assets/hero-bg.jpg";
 import servicesBg from "@/assets/services-bg.jpg";
 
 const images = [
-  { src: heroBg, alt: "Stevie Marshall Movers team loading furniture in Riverdale, GA" },
-  { src: servicesBg, alt: "Team safely moving and assembling furniture" },
-  { src: gallery3, alt: "Construction debris loaded for removal from a job site" },
-  { src: gallery2, alt: "Estate and property cleanout — furniture removed from a home" },
-  { src: gallery4, alt: "Brush and yard debris removal from a residential property" },
-  { src: gallery1, alt: "Clean driveway after professional junk removal service" },
+  { src: heroBg, alt: "Hydroforce Environmental team performing waste removal service" },
+  { src: servicesBg, alt: "Team safely handling environmental cleanup and debris removal" },
+  { src: gallery3, alt: "Construction debris and waste removal from a commercial site" },
+  { src: gallery2, alt: "Property waste removal and environmental cleanup service" },
+  { src: gallery4, alt: "Yard debris and vegetation removal from a residential property" },
+  { src: gallery1, alt: "Clean property after professional environmental cleanup service" },
 ];
 
 const GallerySection = () => (

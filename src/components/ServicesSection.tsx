@@ -4,23 +4,23 @@ import servicesBg from "@/assets/services-bg.jpg";
 const services = [
   {
     icon: Home,
-    title: "Furniture Disassembly & Assembly",
-    description: "We safely disassemble and reassemble your furniture as needed during your move.",
+    title: "Waste Removal",
+    description: "Professional debris and waste removal for homes and businesses with responsible disposal practices.",
   },
   {
     icon: Truck,
-    title: "Small Moves",
-    description: "We offer affordable small move services for studios and 1-bedroom apartments.",
+    title: "Recycling Services",
+    description: "Comprehensive recycling solutions to help reduce environmental impact and promote sustainability.",
   },
   {
     icon: HardHat,
-    title: "Heavy Item Moving",
-    description: "We specialize in moving large furniture safely without damage to your items or property.",
+    title: "Yard & Storm Cleanup",
+    description: "Expert yard cleaning and post-storm cleanup services to restore your property safely and efficiently.",
   },
   {
     icon: Tv,
-    title: "TV Mounting & Unmounting",
-    description: "We offer professional TV unmounting and mounting services to make your move easier.",
+    title: "Environmental Support Services",
+    description: "Specialized environmental support and cleanup services tailored to your specific needs.",
   },
 ];
 
@@ -34,9 +34,9 @@ const ServicesSection = () => (
     <div className="container mx-auto relative z-10 px-4">
       <div className="text-center mb-14">
         <span className="text-accent font-display font-bold text-sm uppercase tracking-wider">What We Do</span>
-        <h2 className="font-display font-800 text-3xl md:text-4xl text-surface-dark-foreground mt-3">Moving & Assembly Services</h2>
+        <h2 className="font-display font-800 text-3xl md:text-4xl text-surface-dark-foreground mt-3">Environmental Services</h2>
         <p className="text-surface-dark-foreground/70 mt-3 max-w-2xl mx-auto">
-          From furniture assembly to heavy item moving, we serve Riverdale and Griffin with safe, affordable relocation support.
+          From waste removal to storm cleanup, we serve Lee and Collier Counties with safe, reliable environmental solutions.
         </p>
       </div>
 

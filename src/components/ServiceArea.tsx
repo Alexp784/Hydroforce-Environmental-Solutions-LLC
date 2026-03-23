@@ -1,18 +1,14 @@
 import { MapPin } from "lucide-react";
 
 const communities = [
-  { name: "Riverdale", tag: "HQ" },
-  { name: "Griffin" },
-  { name: "Jonesboro" },
-  { name: "Morrow" },
-  { name: "Fayetteville" },
-  { name: "Stockbridge" },
-  { name: "McDonough" },
-  { name: "College Park" },
-  { name: "East Point" },
-  { name: "Union City" },
-  { name: "Hapeville" },
-  { name: "Riverdale" },
+  { name: "Fort Myers", tag: "HQ" },
+  { name: "Cape Coral" },
+  { name: "Naples" },
+  { name: "Bonita Springs" },
+  { name: "Lehigh Acres" },
+  { name: "Estero" },
+  { name: "Sanibel" },
+  { name: "Captiva" },
 ];
 
 const ServiceArea = () => (
@@ -21,10 +17,10 @@ const ServiceArea = () => (
       <div className="text-center mb-14">
         <span className="text-accent font-display font-bold text-sm uppercase tracking-wider">Service Area</span>
         <h2 className="font-display font-800 text-3xl md:text-4xl text-foreground mt-3">
-          Serving Riverdale 30274, Griffin, and South Metro Atlanta
+          Serving Lee & Collier Counties, FL
         </h2>
         <p className="text-muted-foreground mt-3 max-w-2xl mx-auto">
-          Based in Riverdale / Griffin, GA, we provide furniture disassembly, small moves, heavy-item moving, and TV services for local homes and apartments.
+          Hydroforce Environmental LLC proudly serves homeowners and businesses throughout Lee and Collier Counties, helping maintain clean and environmentally responsible communities.
         </p>
       </div>
 

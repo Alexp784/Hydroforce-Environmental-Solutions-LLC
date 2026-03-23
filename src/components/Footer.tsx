@@ -6,9 +6,9 @@ const Footer = () => (
     <div className="container mx-auto px-4">
       <div className="grid md:grid-cols-3 gap-12">
         <div>
-          <img src={mpsLogo} alt="Stevie Marshall Movers logo" className="h-16 w-auto mb-4" />
-          <p className="text-accent font-display font-bold text-lg leading-tight mb-1">Stevie Marshall Movers</p>
-          <p className="text-surface-dark-foreground/60 text-sm leading-relaxed">Furniture disassembly, small moves, heavy item moving</p>
+          <img src={mpsLogo} alt="Hydroforce Environmental LLC logo" className="h-16 w-auto mb-4" />
+          <p className="text-accent font-display font-bold text-lg leading-tight mb-1">Hydroforce Environmental LLC</p>
+          <p className="text-surface-dark-foreground/60 text-sm leading-relaxed">Waste removal, recycling, and storm cleanup services</p>
         </div>
 
         <div>
@@ -25,11 +25,11 @@ const Footer = () => (
         <div>
           <h4 className="font-display font-bold text-surface-dark-foreground text-sm uppercase tracking-wider mb-4">Contact</h4>
           <div className="flex flex-col gap-3">
-            <a href="tel:4783912675" className="flex items-center gap-2 text-accent font-bold text-sm">
+            <a href="tel:7864821573" className="flex items-center gap-2 text-accent font-bold text-sm">
               <Phone className="w-4 h-4" /> 786-482-1573
             </a>
-            <a href="mailto:noslienusa11@gmail.com  " className="flex items-center gap-2 text-surface-dark-foreground/60 hover:text-accent transition-colors text-sm">
-              <Mail className="w-4 h-4" /> noslienusa11@gmail.com  
+            <a href="mailto:info@hydroforceenvironmental.com" className="flex items-center gap-2 text-surface-dark-foreground/60 hover:text-accent transition-colors text-sm">
+              <Mail className="w-4 h-4" /> info@hydroforceenvironmental.com
             </a>
           </div>
         </div>
@@ -37,7 +37,7 @@ const Footer = () => (
 
       <div className="border-t border-surface-dark-foreground/10 mt-12 pt-6 text-center">
         <p className="text-surface-dark-foreground/40 text-xs">
-          © {new Date().getFullYear()} Randalls Junk Removal. All rights reserved.
+          © {new Date().getFullYear()} Hydroforce Environmental LLC. All rights reserved.
         </p>
       </div>
     </div>
